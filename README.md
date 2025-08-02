@@ -42,10 +42,7 @@ Site responsivo e profissional sobre oratória desenvolvido com HTML, CSS e Java
 
 ## Como Usar
 
-### 1. Visualizar o Site
-Abra o arquivo `index.html` em qualquer navegador web moderno.
-
-### 2. Estrutura de Arquivos
+### 1. Estrutura de Arquivos
 ```
 website_assets/
 ├── index.html          # Página principal
@@ -60,20 +57,13 @@ website_assets/
 └── README.md           # Este arquivo
 ```
 
-### 3. Personalização
+### 2. Personalização
 Para personalizar o site:
 
 1. **Conteúdo**: Edite o arquivo `index.html`
 2. **Estilos**: Modifique o arquivo `styles.css`
 3. **Funcionalidades**: Altere o arquivo `script.js`
 4. **Imagens**: Substitua as imagens na pasta `images/`
-
-### 4. Hospedagem
-Para colocar o site online:
-
-1. **Hospedagem gratuita**: GitHub Pages, Netlify, Vercel
-2. **Hospedagem paga**: Qualquer provedor de hospedagem web
-3. **Upload**: Faça upload de todos os arquivos mantendo a estrutura
 
 ## Tecnologias Utilizadas
 - **HTML5**: Estrutura semântica
